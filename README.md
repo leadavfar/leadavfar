@@ -1,3 +1,10 @@
+<head>
+<style type="text/css">
+h4 {
+			text-align: left;
+			padding-right: 550px;
+		}
+</style>
 <div>
     <h1>
         Hola, soy Leandro
@@ -22,6 +29,7 @@
     </ul>
     
 </div>
+</head>
 
 <!--
 **leadavfar/leadavfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
