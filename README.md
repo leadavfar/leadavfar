@@ -1,8 +1,9 @@
 <head>
-<style>
+<style type="text/css">
 h4 {
-			text-align: left;
-			padding-right: 550px;
+			text-align: center;
+			text-shadow: 0 0 3px cyan, 0 0 5px black;
+            color: white;
 		}
 </style>
 <div>
