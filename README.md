@@ -9,19 +9,7 @@
         aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
         dedico a la programacion.
     </h4>
-    <ul>
-        <li>JavaScript </li>
-        <li>React</li>
-        <li>Redux </li>
-        <li>Node.JS </li>
-        <li>HTML </li>
-        <li>CSS </li>
-        <li>SQL </li>
-        <li>Express </li>
-        <li>PostgreeSQL </li>
-        <li>Sequelize</li>
-    </ul>
-    
+    <h3>Full Stack Developer | JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
 </div>
 </head>
 
