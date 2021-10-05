@@ -3,6 +3,11 @@
         Hola, soy Leandro
     </h1>
     <h2>Full Stack Developer</h2>
+    <h4>Soy desarrollador Full Stack y estudiante de formacion musical-piano, siempre tuve pasion por el arte y veo la
+        programacion como un medio de arte moderno, un conjunto de herramientas y tecnicas que
+        aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
+        dedico a la programacion.
+    </h4>
     <ul>
         <li>JavaScript </li>
         <li>React</li>
@@ -15,11 +20,7 @@
         <li>PostgreeSQL </li>
         <li>Sequelize</li>
     </ul>
-    <p>Soy desarrollador Full Stack y estudiante de formacion musical-piano, siempre tuve pasion por el arte y veo la
-        programacion como un medio de arte moderno, un conjunto de herramientas y tecnicas que
-        aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
-        dedico a la programacion.
-    </p>
+    
 </div>
 
 <!--
