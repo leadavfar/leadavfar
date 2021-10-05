@@ -1,5 +1,5 @@
 <head>
-<style type="text/css">
+<style>
 h4 {
 			text-align: left;
 			padding-right: 550px;
