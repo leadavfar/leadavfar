@@ -1,5 +1,5 @@
 <head>
-<img src= "./src/banner_laptop.jpg">
+<img src= "./src/banner_laptop2.jpg">
 <div>
     <h1>
         Hola, soy Leandro
@@ -10,7 +10,7 @@
         aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
         dedico a la programacion.
     </h3>
-    <h3 align:"center">JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
+    <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
 
 ![leadavfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=leadavfar&theme=gotham&show_icons=true)
 
