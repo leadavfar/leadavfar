@@ -4,17 +4,16 @@
         Hola, soy Leandro
     </h1>
     <h2>Full Stack Developer</h2>
-    <h4>Soy desarrollador Full Stack y estudiante de formacion musical-piano, siempre tuve pasion por el arte y veo la
+    <h3>Soy desarrollador Full Stack y estudiante de Formacion Musical-Piano, siempre tuve pasion por el arte y veo la
         programacion como un medio de arte moderno, un conjunto de herramientas y tecnicas que
         aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
         dedico a la programacion.
-    </h4>
+    </h3>
     <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
 
 ![leadavfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=leadavfar&theme=gotham&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leadavfar&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 </head>
