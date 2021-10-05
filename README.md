@@ -1,5 +1,5 @@
 <head>
-<img src= "./src/banner_laptop2.jpg">
+<img src= "./src/banner_laptop3.jpg">
 <div>
     <h1>
         Hola, soy Leandro
