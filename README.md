@@ -16,7 +16,8 @@
     <h3>
     Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y tambien tengo interes en aprender diferentes maneras de utilizar las tecnologias
     </h3>
-    <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
+    <h2>Tecnologias</h2>
+    <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize | Mongoose</h3>
 
 ![leadavfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=leadavfar&theme=gotham&show_icons=true)
 
