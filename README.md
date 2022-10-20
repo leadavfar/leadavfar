@@ -16,12 +16,14 @@
         </br>
         </br>
         Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y tambien tengo interes en aprender diferentes maneras de  utilizar las tecnologias.
-</h3>
-    <h3>
-        <b>Linkedin: </b>https://www.linkedin.com/in/leadavfar/ </br>
-        <b>Mail: </b>leandrodavidfarias@gmail.com   </br>
-        <b>Portfolio: </b>https://leandro-farias-portfolio.vercel.app/  </br>
     </h3>
+    <hr>
+        <h3>
+            <b>Linkedin: </b>https://www.linkedin.com/in/leadavfar/ </br>
+            <b>Mail: </b>leandrodavidfarias@gmail.com   </br>
+            <b>Portfolio: </b>https://leandro-farias-portfolio.vercel.app/  </br>
+        </h3>
+    </hr>
     <hr>
         <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize | Mongoose</h3>
     <hr>
