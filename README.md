@@ -9,7 +9,15 @@
         programacion como un medio de arte moderno, un conjunto de herramientas y tecnicas que
         aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
         dedico a la programacion.
-    </h3>
+
+        Poseo experiencia académica desarrollando múltiples proyectos en Henry Bootcamp, el cual finalice con mas de 800 horas de practica destacándome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo y desarrollando proyectos frecuentemente.
+
+        Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y también me interesa aprender diferentes maneras de utilizar las tecnologías.
+    
+        Mail: leandrodavidfarias@gmail.com
+        Portfolio: https://leandro-farias-portfolio.vercel.app/
+        GitHub: http://www.github.com/leadavfar
+</h3>
     <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize</h3>
 
 ![leadavfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=leadavfar&theme=gotham&show_icons=true)
