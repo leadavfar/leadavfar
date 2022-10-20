@@ -9,19 +9,17 @@
         Soy desarrollador Full Stack y estudiante de Formacion Musical-Piano, siempre tuve pasion por el arte y veo la
         programacion como un medio de arte moderno, un conjunto de herramientas y tecnicas que
         aprender a dominar para traer a la realidad las ideas que tiene en su cabeza, por eso ademas de la música me
-        dedico a la programacion.</br>
-
-        Poseo experiencia academica desarrollando multiples proyectos en Henry Bootcamp el cual finalice con mas de 800 horas de practica destacandome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo y desarrollando proyectos frecuentemente.</br>
-
+        dedico a la programacion.
+        </br>
+        Poseo experiencia academica desarrollando multiples proyectos en Henry Bootcamp el cual finalice con mas de 800 horas de practica destacandome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo y desarrollando proyectos frecuentemente.
+        </br>
         Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y tambien tengo interes en aprender diferentes maneras de  utilizar las tecnologias.
-    </h3>
-
+</h3>
     <h3>
         <b>Linkedin: </b>https://www.linkedin.com/in/leadavfar/
         <b>Mail: </b>leandrodavidfarias@gmail.com
         <b>Portfolio: </b>https://leandro-farias-portfolio.vercel.app/
     </h3>
-
     <hr>
         <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize | Mongoose</h3>
     <hr>
