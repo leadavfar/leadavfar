@@ -11,12 +11,19 @@
         dedico a la programacion.
     </h3>
     <h3>
-    Poseo experiencia academica desarrollando multiples proyectos en Henry Bootcamp el cual finalice con mas de 800 horas de practica destacandome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo y desarrollando proyectos frecuentemente
+        Poseo experiencia academica desarrollando multiples proyectos en Henry Bootcamp el cual finalice con mas de 800 horas de practica destacandome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo y desarrollando proyectos frecuentemente
     </h3>
     <h3>
-    Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y tambien tengo interes en aprender diferentes maneras de utilizar las tecnologias
+        Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y tambien tengo interes en aprender diferentes maneras de  utilizar las tecnologias
     </h3>
-    <h2>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize | Mongoose</h2>
+    <h3>
+        <br>Linkedin: </br>https://www.linkedin.com/in/leadavfar/
+        <br>Mail: </br>leandrodavidfarias@gmail.com
+        <br>Portfolio: </br>https://leandro-farias-portfolio.vercel.app/
+    </h3>
+    </hr>
+        <h3>JavaScript | React | Redux | Node.JS | HTML | CSS | SQL | Express | PostgreeSQL | Sequelize | Mongoose</h3>
+    </hr>
 
 ![leadavfar's GitHub stats](https://github-readme-stats.vercel.app/api?username=leadavfar&theme=gotham&show_icons=true)
 
