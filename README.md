@@ -12,7 +12,7 @@
         dedico a la programacion.
         </br>
         </br>
-        Poseo experiencia academica desarrollando multiples proyectos en Henry Bootcamp el cual finalice con mas de 800 horas de practica destacandome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo y desarrollando proyectos frecuentemente.
+        Poseo experiencia academica desarrollando multiples proyectos en Henry Bootcamp el cual finalice con mas de 800 horas de practica destacandome en el Front-End utilizando React.Js, sumado a todo eso sigo acumulando horas de experiencia realizando ejercicios de algoritmo, desarrollando proyectos frecuentemente e investigando/ aprendiendo de otras tecnologias como Angular, MaterialUI.
         </br>
         </br>
         Me interesa descubrir nuevas tecnologias que me permitan ampliar mi creatividad en el desarrollo y tambien tengo interes en aprender diferentes maneras de  utilizar las tecnologias.
